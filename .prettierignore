@@ -1,0 +1,12 @@
+# 빌드 출력물
+build
+dist
+.next
+out
+
+# 의존성
+node_modules
+
+# 환경설정 및 기타
+package-lock.json
+.env*
